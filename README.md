@@ -1,6 +1,6 @@
 # Jadwal Waktu Sholat Sederhana 7 Segment + Remote TV Setting
 
-![Jadwal Waktu Sholat Sederhana 1" Segment + Remote TV Setting](https://i.ytimg.com/vi/INfnUTeq6bI/maxresdefault.jpg)
+[![Jadwal Waktu Sholat Sederhana 1" Segment + Remote TV Setting](https://i.ytimg.com/vi/INfnUTeq6bI/maxresdefault.jpg)](https://www.youtube.com/watch?v=INfnUTeq6bI "Demo Jadwal Sholat 7 Segment Ekonomis")
 
 ## Deskripsi
 Program ini dibuat dengan tujuan amal, 100% digratiskan untuk membuat Jadwal Waktu Sholat. Program mendukung pelestarian Masjid diseluruh dunia khususnya Indonesia ataupun sarana pendidikan. Bagi anda yg mengunduh dan program ini disarankan untuk tidak menghapus catatan yg ada didalamnya. Bagi anda yang ingin menjual belikan Program ini diwajibkan membayar royalty sebesar 2.5% kepada pembuat. Dana dapat anda masukan pada kota amal masjid yg ada disekitar anda atau anda dapat mendonasikan kepada kami sebagai dana untuk membuat JWS di masjid sekitar kami, atau pengembangan produk open source lainnya.
@@ -25,7 +25,7 @@ Program ini dibuat dengan tujuan amal, 100% digratiskan untuk membuat Jadwal Wak
 ## Library Author
 - Prayer Times Library - http://praytimes.org
 - RTClib Library - https://github.com/adafruit/RTClib
-- Timer Timer - https://playground.arduino.cc/code/timer/
+- Timer Library - https://playground.arduino.cc/code/timer/
 - IR Remote Library - https://github.com/z3t0/Arduino-IRremote
 
 ---
