@@ -5,7 +5,8 @@
 ## Deskripsi
 Program ini dibuat dengan tujuan amal, 100% digratiskan untuk membuat Jadwal Waktu Sholat. Program mendukung pelestarian Masjid diseluruh dunia khususnya Indonesia ataupun sarana pendidikan. Bagi anda yg mengunduh dan program ini disarankan untuk tidak menghapus catatan yg ada didalamnya. Bagi anda yang ingin menjual belikan Program ini diwajibkan membayar royalty sebesar 2.5% kepada pembuat. Dana dapat anda masukan pada kota amal masjid yg ada disekitar anda atau anda dapat mendonasikan kepada kami sebagai dana untuk membuat JWS di masjid sekitar kami, atau pengembangan produk open source lainnya.
 
-"Dengan membaca Deskripsi diatas, dianggap anda susah menyetujui aturan mendownload program ini"
+>"Dengan membaca Deskripsi diatas, dianggap anda susah menyetujui aturan mendownload program ini"
+
 ---
 ## Author
 **Catatan & Program ditulis oleh:**
