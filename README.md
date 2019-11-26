@@ -31,7 +31,7 @@ Program ini dibuat dengan tujuan amal, 100% digratiskan untuk membuat Jadwal Wak
 ---
 ## Donasi
 Semua jenis donasi ditunjukan untuk amal dan pendidikan, bagi kalian yang ingin berdonasi kepada kami silahkan hubungi kami melalui kontak berikut:
-- donasi@fanselectronics.com
+- donate@fanselectronics.com
 - www.facebook.com/FansElectronicsCom
 - www.instagram.com/fanselectronics
 
